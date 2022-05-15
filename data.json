@@ -1,0 +1,98 @@
+[
+    {
+       "title":"Weeks 2: Assignment 2: CodeCombat + Basic JavaScript",
+        "description":"This week was to set up our student account and complete the free Introduction to Computer Science Code Combat materials. It was really fun.",
+        "date":"August 30,2021",
+				"image":"images/APro2.PNG",
+				"urlLink":"https://codecombat.com/students?",
+				"target": "_blank"
+    },
+    {
+        "title":"Week 3: Assignment 3: More JavaScript",
+        "description":"This Project was to create a Looping a triangle. A loop that makes seven calls to console.log to output the following triangle.",
+        "date":"September 6, 2021",
+				"image":"images/APro3.PNG",
+				"urlLink":"https://cs50c-week03-32-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+    {
+        "title":"Week 4: Assignment 4: Events + Objects",
+        "description":"On this project we had to create a simple interactive quiz game on a webpage. The main purpose is to practice coding with JavaScript events and using the components of the JavaScript language including objects and events. This will make us understand to create interactive experiences using logic and control structures.",
+        "date":"September 13,2021",
+				"image":"images/APro4.PNG",
+				"urlLink":"https://cs50c-week04-25-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+    {
+        "title":"Week 5: Assignment 5: Shared Libraries",
+        "description":"We created another browser-based quiz for this assignment, but this time using the shared jQuery JavaScript library. This project purpose is to practice coding with JavaScript events and using the components of the JavaScript language including control structures. We learn how to create interactive experiences using logic and shared code libraries.",
+        "date":"September 20,2021",
+				"image":"images/APro5.PNG",
+				"urlLink":"https://cs50c-week05-20-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+    {
+        "title":"Week 6: Assignment 6: Enhanced User Interfaces",
+        "description":"For this project assignment, we added a draggable and droppable interactions as well as at least two widgets from the jQuery UI library, provided at http://jqueryui.com/ (Links to an external site.). We also used the jQuery library provided via http://jquery.com (Links to an external site.), and its default function, $() or jQuery(), that lets us easily access and manipulate the browser and objects in the web page.",
+        "date":"September 27,2021",
+				"image":"images/APro6.PNG",
+				"urlLink":"https://cs50c-week06-19-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+    {
+        "title":"Week 7: Assignment 7: jQuery Plugin Promotional Site",
+        "description":"This week's project assignment we created an HTML-based experience that is enhanced by the addition of at least two jQuery plugins. I found my jQuery plugins at http://www.bestjquery.com/ (Links to an external site.). We created our own jQuery plugin. We showed some capabilities of at least two plugins to enhance the user experience (UI, effects, etc.) in our HTML-based experience.",
+        "date":"October 4,2021",
+				"image":"images/APro7.PNG",
+				"urlLink":"https://cs50c-week07-18-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+    {
+        "title":"Week 8: Assignment 8: Class Map",
+        "description":"For this assignment, I used Google Maps API JavaScript library together with my custom JavaScript code. I created an interactive experience that incorporates Google Map with the following requirements for this project. I included a visible map in an HTML page with 3 markers with unique latitude, longitude values,and with 1 info window (Google Map).",
+        "date":"October 11,2021",
+				"image":"images/APro8.PNG",
+				"urlLink":"https://cs50c-week08-20-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+		{
+			"title":"Week 8-9: Midterm Project: Map-Based Mobile App",
+      "description":"For this Midterm Project assignment, I used the core jQuery library to load data from an external JSON file. I used the data loaded from JSON to render a mobile-ready and responsive map interface with interactive markers from the OpenLayers JavaScript library. I created an interactive experience that incorporates an external JSON file, and a map with the following requirements. My external JSON data file defines ten (10) specific geolocations (latitude and longitude), each with a title.",
+			"date":"October 18,2021",
+			"image":"images/APro8-9.PNG",
+			"urlLink":"https://cs50c-week09-16-jeshishm.srjcethanwilde.repl.co/",
+			"target": "_blank"
+		},
+    {
+        "title":"Week 11: Assignment 9: Basic Data Visualization",
+        "description":"For this assignment, we will used the jQuery JavaScript library together with your own custom JavaScript code and an external JSON data file. I included a visible canvas element in an HTML page at least 500 by 500 pixels in size. Also included 10 data values in an external JSON file named data.json using JavaScript code creating a bar chart with text labels to visualize the data stored in your external JSON file.",
+        "date":"November 1,2021",
+				"image":"images/APro9.PNG",
+				"urlLink":"https://cs50c-week11-17-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+    {
+        "title":"Week 12: Assignment 10: Advanced Visualization",
+        "description":"For this assignment, we used the D3.js JavaScript library together with your own custom JavaScript code and an external JSON data file. I created a data visualization using the D3 library that supports user interaction (such as hover and/or click interactions with data-bound elements), uses SVG elements and loads data from an external JSON file. I included 10 data values in an external JSON file named data.json",
+        "date":"November 8,2021",
+				"image":"images/APro10.PNG",
+				"urlLink":"https://cs50c-week12-16-jeshishm.srjcethanwilde.repl.co/",
+				"target": "_blank"
+    },
+		{
+			"title": "Week 13: Assignment 11: Basic Game",
+			"description":"For this assignment, I used the Phaser JavaScript library (version 3) together with your own custom JavaScript code and external graphic asset files, such as PNGs. i customized the source art used for sprites, replacing the original files in the tutorial. I changed the behavior of the stars by modifying any of their physics properties with custom values of your own choosing. I also put the scoring methodology. I put the point values earned random or use some other way to decide how the player earns points.",
+       "date":"November 15,2021",
+			"image":"images/APro11.PNG",
+			"urlLink":"https://cs50c-week13-17-jeshishm.srjcethanwilde.repl.co/",
+			"target": "_blank"
+		},
+		{
+			"title": "Week 14: Assignment 12: Your Game",
+			"description":"For this assignment, I again used the Phaser JavaScript library (version 3) again. I designed and programmed a computer-based game. Mostly I used Phaser tutorial to find online game tutorials in this module weeks project. This game name is Hungry Snake game. I put users with an objective, challenges, and rewards.",
+      "date":"November 22,2021",
+			"image":"images/APro12.PNG",
+			"urlLink":"https://cs50c-week14-16-jeshishm.srjcethanwilde.repl.co/",
+			"target": "_blank"
+		}
+]

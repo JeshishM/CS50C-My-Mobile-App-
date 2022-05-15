@@ -1,0 +1,61 @@
+/* ---------Global------------- */
+body{
+	background-color: black;
+} 
+ a{
+	text-decoration: none;
+	color: white;
+	margin-left : 20%;
+}
+h1, h2{
+	text-align: center;
+}
+
+h1{
+	color: rgb(253, 253, 253);
+	font-family: 'Qwigley', cursive;
+	font-size: 3em;
+} 
+
+/* ---------------------------- */
+
+/* #myApp{
+	background-color: rgb(144, 194, 144);
+	margin: 10px 10px;
+	padding: 10px 10px;
+}
+#myApp{
+	font-size: 1rem;
+} */
+
+/* ----------------------- */
+/* prevent image dragging when swipe gesture applied to it */
+    img {
+      pointer-events: none;
+      max-width:100%;
+    }
+    /* .holder has overflow hidden and fixed dimensions */
+    .holder {
+      width:300px;
+      height:550px;
+      overflow:hidden;
+      border:4px solid white;
+			margin-left:40%; 
+    }
+    /* make list as wide as width of all items */
+    .holder ol {
+      list-style-type:none;
+      width:4000px;
+      padding:0;
+      margin:0;
+      background:gray;
+      position:relative;
+      left:0;
+      transition:left 0.5s;
+    }
+    .holder li {
+      display:inline-block;
+      width:300px;   
+    }
+						/* ---------------------------- */
+
